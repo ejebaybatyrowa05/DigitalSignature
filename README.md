@@ -10,7 +10,7 @@
 
 1. **Репозиторийді клондау:**
    ```bash
-   git clone https://github.com<ejebaybatyrowa05>/DigitalSignature.git
+git clone https://github.com/ejebaybatyrowa05/DigitalSignature.git
    cd DigitalSignature
    ```
 
